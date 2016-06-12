@@ -62,10 +62,10 @@ end
 if msg.text == "خدافظ" then
 	return "Bye Bye"
 end
-if msg.text == "Mr Ahs" then
+if msg.text == "persianfa" then
 	return "چیکار داری بابامو؟"
 end
-if msg.text == "@Mr_Ah_s" then
+if msg.text == "@persianfa" then
 	return "چیکار داری بابامو؟"
 end
 end
